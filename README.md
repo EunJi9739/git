@@ -46,3 +46,19 @@ git commit -m "수정하거나 새로 작업한 내용 작성"
 ```
 git push origin master
 ```
+
+### 7. 브랜치
+* 현재 브랜치 목록 확인하기
+```
+git branch
+```
+
+* 브랜치 생성하기
+```
+git branch 브랜치명
+```
+
+* 브랜치 이동하기
+```
+git checkout 브랜치명
+```
